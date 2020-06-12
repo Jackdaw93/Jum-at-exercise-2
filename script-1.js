@@ -11,5 +11,5 @@ function inputTemperature(number) {
   return getCelsius()
 }
 
-console.log(getFahrenheit(3));
+console.log(getFahrenheit(3)); 
 console.log(getCelsius(3));
